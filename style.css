@@ -1,0 +1,23 @@
+#h1 {
+  color: #eb0800;
+}
+
+#password, #name {
+  width: 5%;
+  height: 0.5%;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#name {
+  color: #f7e706;
+}
+
+#password {
+  color: #00cc00;
+}
+
+#btn_ok {
+  color: #08d6fa;
+}
+
+/*# sourceMappingURL=style.css.map */
